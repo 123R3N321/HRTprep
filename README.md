@@ -25,3 +25,7 @@ interview performance. The algorithms are revised and improved with
 chatGPT 5.2, but are mostly conceived and developed in a way
 to be uncheatable with LLM assistance based on common OA and Interview
 design pattern I observed in Fall/Winter 2025 recruiting season.
+
+Special Note:
+all codes except the ``asyncio`` snippets should run out-of-the-box in [coderpad](https://app.coderpad.io/sandbox) -- Python3 env
+as this is the platform of choice of HRT interviews.
