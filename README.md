@@ -13,10 +13,10 @@ which I rummaged thru inside out upside down. Trust me on this.
 - Prof's tip. CS9223 prof is of senior position at this company. 
 
 ### Scope and Coverage:
-- String Manipulation (with and without regex)
-- Mathematical algorithms (specifically **NOT** Leetcode style)
-- Python Low-level primitives, space&time analysis
-- System design with ``asyncio``
+- [String Manipulation (with and without regex)](./Strs)
+- [Mathematical algorithms (specifically **NOT** Leetcode style)](./Algos)
+- [Python Low-level primitives, space&time analysis](./Prims)
+- [System design with ``asyncio``](./IOs)
 
 ### Methodology:
 The point is interview prep, thus all code comes with
