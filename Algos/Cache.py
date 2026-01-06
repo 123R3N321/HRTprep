@@ -122,7 +122,7 @@ class Dll:
             self.header.prev = node
             self.header = node
 
-    def pop(self, node=None):  # no return, pop back
+    def pop(self, node=None):  # return popped node, pop back
         if self.n <= 0: return  # do nothing
         self.n -= 1
         if node is None:
