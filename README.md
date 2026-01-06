@@ -6,7 +6,7 @@ of getting into HRT.
 ### JD: [HRT Python SWE Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/)
 <sup>originally posted late Oct, reposted early Dec</sup>
 ### Sources of Info:
-- OA, round1, and round2
+- OA, round1, round2, and VO
 - [Glassdoor](https://www.glassdoor.com/Interview/Hudson-River-Trading-Interview-Questions-E470937.htm?filter.jobTitleExact=Software+Engineer(Internship)&filter.jobTitleFTS=Software+Engineer(Internship))
 which I rummaged thru inside out upside down. Trust me on this.
 - cyber-stalking exising hrt employee / interviewers' code projects, repos, blogs, articles, etc. 
@@ -17,6 +17,7 @@ which I rummaged thru inside out upside down. Trust me on this.
 - [Mathematical algorithms (specifically **NOT** Leetcode style)](./Algos)
 - [Python Low-level primitives, space&time analysis](./Prims)
 - [System design with ``asyncio``](./IOs)
+- [Python syntax](./Syntax) such as *args, **kwargs
 
 ### Methodology:
 The point is interview prep, thus all code comes with
