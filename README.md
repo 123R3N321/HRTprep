@@ -30,3 +30,11 @@ design pattern I observed in Fall/Winter 2025 recruiting season.
 Special Note:
 all codes except the ``asyncio`` snippets should run out-of-the-box in [coderpad](https://app.coderpad.io/sandbox) -- Python3 env
 as this is the platform of choice of HRT interviews.
+
+## Disclaimer
+All the information here is interpretation of problem and 
+"what if" questions which are academic in nature. Nothing
+from this repo is a direct regurgitate of the actual interview
+material, and this repo serves as a collection
+of puzzles and concepts with a theme instead of a violation
+of any sort of NDA.
